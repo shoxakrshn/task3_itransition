@@ -1,0 +1,1 @@
+export const randGenerator = (max) => Math.floor(Math.random() * max);
